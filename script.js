@@ -10,7 +10,7 @@ $(document).ready(function(){
     $('.dots-click2').removeClass("swiper-pagination-bullet-active");
     $('.dots-click3').removeClass("swiper-pagination-bullet-active");
     $('#individual-heading').text("Jenny Wilson");
-    $("#Container9-individuals-img").attr("src","../Photos/Container9-individuals-img1.png");
+    $("#Container9-individuals-img").attr("src","assets/Container9-individuals-img1.png");
 
 
 
@@ -35,7 +35,7 @@ $(document).ready(function(){
     $('.dots-click1').removeClass("swiper-pagination-bullet-active");
     $('.dots-click3').removeClass("swiper-pagination-bullet-active");
     $('#individual-heading').text("Monica Bellucci");
-    $("#Container9-individuals-img").attr("src","../Photos/Container9-individuals-img2.png");
+    $("#Container9-individuals-img").attr("src","assets/Container9-individuals-img2.png");
 
 
     $("#Container9-individuals-img").addClass("individual-anim");
@@ -56,7 +56,7 @@ $(document).ready(function(){
     $('.dots-click1').removeClass("swiper-pagination-bullet-active");
     $('.dots-click2').removeClass("swiper-pagination-bullet-active");
     $('#individual-heading').text("Javier Bardem");
-    $("#Container9-individuals-img").attr("src","../Photos/Container9-individuals-img3.png");
+    $("#Container9-individuals-img").attr("src","assets/Container9-individuals-img3.png");
 
     $("#Container9-individuals-img").addClass("individual-anim");
     setTimeout(function() {

@@ -736,7 +736,7 @@ justify-content: space-between;
 .container10-content {
   width: 1302px;
   height: 376px;
-  background-image: url(../Photos/Container10-bg-img.png);
+  background-image: url(assets/Container10-bg-img.png);
 background-repeat: no-repeat;
 background-size: cover;
 position: relative;
